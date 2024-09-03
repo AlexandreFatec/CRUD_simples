@@ -1,0 +1,12 @@
+CRIAR UM BANCO DE DADOS PELO BACKEND USANDO 
+
+node
+sempre que for usar o node: npm init
+para rodar o arquivo que estara em js: node index.js
+
+instalar a dependencia
+npm install mysql2 -save
+
+
+APENAS RELEMBRANDO, CURIOSIDADE
+*****mysql -u root -p > pode acessar de qualquer lugar do terminal
